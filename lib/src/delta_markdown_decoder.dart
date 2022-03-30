@@ -1,7 +1,7 @@
 import 'dart:collection';
 import 'dart:convert';
 
-import 'package:flutter_quill/flutter_quill.dart'
+import 'package:flutter_quill/flutter_quill.dart';
 
 import 'ast.dart' as ast;
 import 'document.dart';
